@@ -1,0 +1,16 @@
+{
+    "fonts": [
+        {
+            "aifont": "Baskerville-Bold",
+            "family": "Baskerville",
+            "weight": "700",
+            "style": ""
+        },
+        {
+            "aifont": "Baskerville",
+            "family": "Baskerville",
+            "weight": "400",
+            "style": ""
+        }
+    ]
+}
